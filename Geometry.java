@@ -1,3 +1,7 @@
+// david magnuson
+// Geometry.java
+// oct 28 2021
+
 import java.util.Scanner;
 
 public class Geometry {
